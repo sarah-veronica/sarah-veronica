@@ -1,7 +1,7 @@
-Hey there! 👋
-Fun fact! I'm an aspiring doctor 🩺
-DEEPLY committed to bridging the gap between tech and medicine! 🫀💻
-Currently learning Web Dev 🌐
+Hey there! 👋 <br>
+Fun fact! I'm an aspiring doctor 🩺 <br>
+DEEPLY committed to bridging the gap between tech and medicine! 🫀💻 <br>
+Currently learning Web Dev 🌐 <br>
 
 <!---
 sarah-veronica/sarah-veronica is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
